@@ -377,7 +377,7 @@ const Login = () => {
 
                     <div>
                         <fieldset className="fieldset">
-                            <legend className="fieldset-legend">Password</legend>
+                            <legend className="fieldset-legend">Password </legend>
                             <input
                                 type="password"
                                 value={password}
